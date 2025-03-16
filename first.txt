@@ -2,5 +2,6 @@ Githubの練習用。
 基本的なWFを学ぶ。
 ・git add
 ・git commit
+・git rm
 
 
