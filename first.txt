@@ -1,3 +1,6 @@
-Githubの練習用
+Githubの練習用。
+基本的なWFを学ぶ。
+・git add
+・git commit
 
 
